@@ -1,0 +1,60 @@
+/* Navigation */
+#navigation {
+     flex-direction: column;
+}
+
+/* Home */
+#Home {
+     height: 228px;
+}
+
+#Home::before {
+     height: 470px;
+}
+
+#Home p {
+     font-size: 20px;
+     padding: 1px 2px;
+     width: 270px;
+     margin: -17px 5px;
+}
+
+#Home h1 {
+     font-size: 25px;
+     padding: 5px 5px;
+     width: 300px;
+     margin: 35px 5px;
+}
+#but{
+     width: 100px;
+}
+
+/* Services */
+
+#services {
+     flex-direction: column;
+}
+
+#services p {
+     font-size: 20px;
+     text-align: center;
+     width: 200px;
+}
+.box{
+     margin: 30px 0px;
+}
+
+/* Client */
+
+#clientName {
+     flex-wrap: wrap;
+}
+
+.client img {
+     width: 21px;
+     height: auto;
+     padding: 0px -1px;
+}
+/* contact */
+
+/* Footer  */
